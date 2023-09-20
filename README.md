@@ -27,9 +27,8 @@ We welcome contributions from the developer community. If you would like to cont
 3. Submit a **pull request** with a clear description of the changes you made.
 
 ## Licence
-This project is licensed under [XYZ licence](LICENSE). You are free to use, modify and distribute this project in accordance with the terms of the licence.
+This project is licensed under [MIT license](LICENSE). You are free to use, modify and distribute this project in accordance with the terms of the license.
 
 ## Contact
-If you have any questions or concerns regarding this project, please contact us at [your email address](mailto:email@example.com).
-
+If you have any questions or concerns regarding this project, please contact us at ryandaffapratama@gmail.com
 Thank you for using Deyeuhkolot Village River Water Level Monitoring! We hope this project can help improve the safety of villagers in the face of potential flooding.
