@@ -10,8 +10,8 @@
 FirebaseData firebaseData;
 FirebaseJson json;
 
-const char* ssid = "iPhone";
-const char* password = "Aduhlupa";
+const char* ssid = "ssid";
+const char* password = "pass";
 static const int relay = 16, trigPin = 4, echoPin = 5;
 long duration;
 int distance;
