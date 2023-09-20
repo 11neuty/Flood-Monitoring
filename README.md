@@ -1,6 +1,6 @@
 # Deyeuhkolot Village River Water Level Monitoring
 
-![Monitoring Ketinggian Air Sungai] ![flood-monitoring](https://github.com/11neuty/Flood-Monitoring/assets/49444532/334f79ae-e396-4a55-b86b-9240170a379f)
+![flood-monitoring](https://github.com/11neuty/Flood-Monitoring/assets/49444532/334f79ae-e396-4a55-b86b-9240170a379f)
 
 
 ## Project Description
